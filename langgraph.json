@@ -1,0 +1,12 @@
+{
+  "graphs": {
+    "museum": {
+      "entrypoint": "graph.py:graph",
+      "title": "Museum Label Graph",
+      "description": "Wikipedia → Prompt → LLM"
+    }
+  },
+  "server": {
+    "port": 2024
+  }
+}
